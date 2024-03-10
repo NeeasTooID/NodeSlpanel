@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const os = require('os');
 
-const webhookURL = 'https://discord.com/api/webhooks/1216287209594818580/rvkssFn7VzGtIU5GlKEk1DlVldAWueDVMDSElUb1A4-R48LrRvDqOjRFHLDinGEtNtYU';
+const webhookURL = 'dcwbhooks url';
 const webhook = new Discord.WebhookClient({ url: webhookURL });
 let messageId = '1216294859359387658'; // ID pesan yang ingin diupdate
 
